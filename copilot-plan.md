@@ -16,12 +16,17 @@ This plan outlines the steps to build and deploy the Excursion landing page usin
 
 ## Phase 3: HTML and CSS Implementation
 
-- [ ] Step 7: Add HTML boilerplate and link to the CSS file; implement the top header and link.
-- [ ] Step 8: Commit the boilerplate and header changes.
-- [ ] Step 9: Add the video component, landscape image, and cellphone icon. 
+- [x] Step 7: Add HTML boilerplate and link to the CSS file; implement the top header and link.
+- [x] Step 8: Commit the boilerplate and header changes.
+- [x] Step 9: Add the video component, landscape image, and cellphone icon.
     - Create `resources/videos` and `resources/images` to store media assets.
     - Ensure elements are centered and paths include `resources/`.
-- [ ] Step 10: Commit after each feature or section is added.
+- [x] Step 10: Commit after each feature or section is added.
+
+## Phase 3.1: Testing & Refinements
+
+- [x] Test media sizes and adjust video max-width to fit phone mockup.
+- [ ] Review layout on multiple screen sizes and refine as needed.
 
 ## Phase 4: Deployment
 

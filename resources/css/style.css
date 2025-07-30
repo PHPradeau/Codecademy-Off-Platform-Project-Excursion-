@@ -17,8 +17,10 @@
 }
 .hero-video__media {
 	width: 100%;
+	max-width: 360px; /* limit width to approximate phone size */
 	height: auto;
 	display: block;
+	margin: 0 auto;
 }
 
 .intro-text {
