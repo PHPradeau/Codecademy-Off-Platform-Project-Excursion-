@@ -28,14 +28,30 @@ This plan outlines the steps to build and deploy the Excursion landing page usin
 - [x] Test media sizes and adjust video max-width to fit phone mockup.
 - [ ] Review layout on multiple screen sizes and refine as needed.
 
+## Phase 3.2: Post-Review Updates
+
+- [ ] Wrap core sections in a `<main>` element for semantic structure.
+- [ ] Add a `<meta name="description" content="Excursion: discover hidden places around you">` in the `<head>` for SEO.
+- [ ] Include `aria-label` or `role="region"` on major sections (e.g., video, images).
+- [ ] Implement a basic media query to refine font sizes or padding on tablets and desktops.
+- [ ] Ensure all links and interactive elements have visible focus styles.
+- [ ] Add the footer and any remaining CSS to match the redline mock.
+
+
+## Phase 3.3: Post-Review Updates
+
+- [ ] Proceed to a new code review.
+
+
+
 ## Phase 4: Deployment
 
 - [ ] Step 11: Push local changes to GitHub and confirm that GitHub Pages is serving the site.
 
 ## Phase 5: Final Touches
 
-- [ ] Step 12: Add the footer and any remaining CSS to match the redline mock.
-- [ ] Step 13: Final commit and push with a clear "complete" message.
+- [x] Step 12: Add the footer and any remaining CSS to match the redline mock.
+- [x] Step 13: Final commit and push with a clear "complete" message.
 
 ## Phase 6: Enhancement and Documentation
 

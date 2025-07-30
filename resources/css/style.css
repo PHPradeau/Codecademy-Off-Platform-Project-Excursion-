@@ -53,6 +53,24 @@ body {
 	background-color: #000;
 	color: #fff;
 }
+	/* Focus styles for accessibility */
+	a:focus, .download-link:focus {
+		outline: 2px solid aquamarine;
+		outline-offset: 4px;
+	}
+
+	/* Responsive adjustments for larger screens */
+	@media (min-width: 768px) {
+		.site-header h1 {
+			font-size: 60px;
+		}
+		.intro-text h2 {
+			font-size: 48px;
+		}
+		.intro-text p {
+			font-size: 24px;
+		}
+	}
 
 /* Header styling */
 .site-header {
