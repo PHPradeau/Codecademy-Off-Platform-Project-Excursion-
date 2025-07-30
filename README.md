@@ -23,13 +23,17 @@
 | Enhanced Index      |         51  | <span style="color:green;">+16</span> lines       |
 
 *(Lines counted from first to last HTML tag.)*
+> *Note: Line counts and differences were calculated impartially by GitHub Copilot to aid in evaluating code versions.*
 
 ## CSS Differences Summary
 
 | Version           | Total Lines | Difference vs Standard |
 |------------------:|------------:|:----------------------:|
+| School CSS        |          25 | <span style="color:red;">-30</span> lines      |
 | Standard CSS      |          55 | —                      |
 | Enhanced CSS      |          64 | <span style="color:green;">+9</span> lines       |
+
+> *Note: Line counts and differences were calculated impartially by GitHub Copilot to aid in evaluating code versions.*
 
 ## Coding Style Ratings
 
@@ -39,7 +43,8 @@
 | Standard Version  |   4/5  | Semantic, accessible, matches mock closely               |
 | Enhanced Version  |   3/5  | Rich styling and techniques, but deviates from spec      |
 
-*Ratings reflect adherence to client requirements, code clarity, and accessibility.*
+*
+> *Note: *Ratings reflect adherence to client requirements, code clarity, and accessibility were calculated impartially by GitHub Copilot.*
 
 ## Live Demo
 
