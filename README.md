@@ -43,7 +43,6 @@
 | Standard Version  |   4/5  | Semantic, accessible, matches mock closely               |
 | Enhanced Version  |   3/5  | Rich styling and techniques, but deviates from spec      |
 
-*
 > *Note: *Ratings reflect adherence to client requirements, code clarity, and accessibility were calculated impartially by GitHub Copilot.*
 
 ## Live Demo
