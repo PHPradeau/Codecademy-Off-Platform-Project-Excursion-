@@ -12,7 +12,7 @@ This plan outlines the steps to build and deploy the Excursion landing page usin
 
 ## Phase 2: GitHub Setup
 
-- [ ] Step 6: Create a remote GitHub repository named `excursion` and push the initial commit.
+- [x] Step 6: Create a remote GitHub repository named `excursion` and push the initial commit.
 
 ## Phase 3: HTML and CSS Implementation
 
