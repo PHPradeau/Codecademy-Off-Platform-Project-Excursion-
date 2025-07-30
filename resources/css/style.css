@@ -1,3 +1,49 @@
+.coming-soon {
+	text-align: center;
+	padding: 2rem 1rem;
+}
+
+.coming-soon h2 {
+	font-size: 42px;
+	margin: 0 0 1rem;
+	color: #fff;
+}
+
+.site-footer {
+	text-align: right;
+	padding: 1rem;
+	color: gray;
+	font-size: 14px;
+}
+.hero-video__media {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+.intro-text {
+	text-align: center;
+	padding: 2rem 1rem;
+}
+
+.intro-text h2 {
+	font-size: 42px;
+	margin: 0 0 0.5rem;
+	color: #fff;
+}
+
+.intro-text p {
+	font-size: 21px;
+	color: gray;
+	margin: 0;
+}
+
+.hero-image img,
+.phone-icon img {
+	max-width: 100%;
+	display: block;
+	margin: 1rem auto;
+}
 /* Base reset and typography */
 body {
 	margin: 0;
